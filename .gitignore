@@ -1,0 +1,6 @@
+# Affinity
+*.afdesign
+
+# macOS
+*.DS_Store
+
